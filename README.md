@@ -1,7 +1,7 @@
 Scroll Top
 ===========
 
-Scroll top on any pages.
+Scroll to top on any pages.
 
 Version
 ---------
@@ -11,7 +11,7 @@ Version
 Feature
 ---------
 
-* xxx
+* Scroll to top on any pages, if you want.
 
 Install
 ---------
@@ -28,4 +28,4 @@ npm install
 Usage
 ---------
 
-* xxx
+* If Click the browser action button, scroll to top on current page.

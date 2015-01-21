@@ -4,7 +4,7 @@
 
 var services = angular.module('services', []);
 
-services.service('ScrollService', function() {
+services.service('ScrollService', function(){
   var me = this;
   this.attachBrowserActionListener = function(){
     chrome.browserAction.onClicked.addListener(function(tab){
